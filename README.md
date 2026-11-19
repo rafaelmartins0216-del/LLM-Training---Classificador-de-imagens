@@ -189,7 +189,7 @@ Sigmoid
 ### 1. Clonar o repositório
 
 ```bash
-git clone URL_DO_REPOSITORIO
+git clone https://github.com/rafaelmartins0216-del/LLM-Training---Classificador-de-imagens.git
 cd NOME_DO_PROJETO
 ```
 
